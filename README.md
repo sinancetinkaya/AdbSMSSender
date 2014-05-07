@@ -8,6 +8,4 @@
 <div align=center>FAQ</div>
 * Error: 0x80070002 at startup
 
-  Correct the path for Android Debugging Bridge (ADB) binary in AdbSMSSender.ini
-  Or click on Continue button, then correct the Adb path 
-  Restart AdbSMSSender
+  Correct the path for Android Debugging Bridge (ADB) binary in AdbSMSSender.ini . Or click on Continue button, then correct the Adb path. Restart AdbSMSSender.
